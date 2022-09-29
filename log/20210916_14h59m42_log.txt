@@ -1,0 +1,11 @@
+Log started at 2021-09-16 14:59:42.414195
+
+
+[2021-09-16 15:00:05.108649]:  * MUVBOX_66c1 #0: Start _do_connect
+[2021-09-16 15:00:05.120649]:  * MUVBOX_66c1 #0:  IP = 192.168.137.88
+[2021-09-16 15:00:05.122649]:  * MUVBOX_66c1 #0: SUCCESSFULL CONNECTED TO 192.168.137.88
+[2021-09-16 15:00:05.123649]:  * MUVBOX_66c1 #0: Start command__system_info
+[2021-09-16 15:00:05.125649]:  * MUVBOX_66c1 #0: free heap: 53844 mac: a8:03:2a:f9:66:c1 firmware: FM10V000.980 sensor task: None
+[2021-09-16 15:00:05.126649]:  * MUVBOX_66c1 #0: command__system_info successful
+[2021-09-16 15:00:05.127648]:  * MUVBOX_66c1 #0: Firmware version FM10V000.980 unknown. Setup not done.
+[2021-09-16 15:00:05.129648]:  * MUVBOX_66c1 #0: End do_connect

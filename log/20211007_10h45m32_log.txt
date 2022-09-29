@@ -1,0 +1,71 @@
+Log started at 2021-10-07 10:45:32.033819
+
+
+[2021-10-07 10:46:40.414451]:  * MUVBOX_5051 #0: Start _do_connect
+[2021-10-07 10:46:40.417440]:  * MUVBOX_5051 #0: Could not find hostname MUVBOX_5051
+[2021-10-07 10:46:40.419439]:  * MUVBOX_5051 #0: Could not find hostname MUVBOX_5051.local
+[2021-10-07 10:47:35.566561]:  * MUVBOX_5051 #0: Start _do_connect
+[2021-10-07 10:47:35.572547]:  * MUVBOX_5051 #0: Could not find hostname MUVBOX_5051
+[2021-10-07 10:47:35.574550]:  * MUVBOX_5051 #0:  IP = 192.168.159.134
+[2021-10-07 10:47:35.577551]:  * MUVBOX_5051 #0: SUCCESSFULL CONNECTED TO 192.168.159.134
+[2021-10-07 10:47:35.579551]:  * MUVBOX_5051 #0: Start command__system_info
+[2021-10-07 10:47:35.582550]:  * MUVBOX_5051 #0: free heap: 58636 mac: 24:0a:c4:f4:50:51 firmware: 0 sensor task: None
+[2021-10-07 10:47:35.584551]:  * MUVBOX_5051 #0: command__system_info successful
+[2021-10-07 10:47:35.586552]:  * MUVBOX_5051 #0: Start scale procedure.
+[2021-10-07 10:47:35.588552]:  * MUVBOX_5051 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-10-07 10:47:35.590551]:  * MUVBOX_5051 #0: Setup done for MuvBox version FM10V000.980
+[2021-10-07 10:47:35.592551]:  * MUVBOX_5051 #0: End do_connect
+[2021-10-07 10:47:38.598775]:  * MUVBOX_5051 #0: Start start_reading
+[2021-10-07 10:47:38.601773]:  * MUVBOX_5051 #0: Start command__start_sensor
+[2021-10-07 10:47:38.603776]:  * MUVBOX_5051 #0: start_sensor command successful
+[2021-10-07 10:47:38.606774]:  * MUVBOX_5051 #0: Start scale procedure.
+[2021-10-07 10:47:38.608776]:  * MUVBOX_5051 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=2
+[2021-10-07 10:47:39.672855]:  * MUVBOX_5051 #0:  - rtc0: 20.927903
+[2021-10-07 10:53:52.852813]:  * MUVBOX_5051 #0: Start stop_reading
+[2021-10-07 10:53:52.855800]:  * MUVBOX_5051 #0: Start command__stop_transmission
+[2021-10-07 10:53:52.857803]:  * MUVBOX_5051 #0: Stop_transmission command successful
+[2021-10-07 10:53:52.859802]:  * MUVBOX_5051 #0: End stop_reading
+[2021-10-07 10:57:30.189220]:  * MUVBOX_5051 #0: Connection closed 192.168.159.134
+[2021-10-07 10:57:39.108881]:  * MUVBOX_5051 #0: Start _do_connect
+[2021-10-07 10:57:39.111885]:  * MUVBOX_5051 #0: Could not find hostname MUVBOX_5051
+[2021-10-07 10:57:39.113886]:  * MUVBOX_5051 #0:  IP = 192.168.159.134
+[2021-10-07 10:57:39.115886]:  * MUVBOX_5051 #0: SUCCESSFULL CONNECTED TO 192.168.159.134
+[2021-10-07 10:57:39.118886]:  * MUVBOX_5051 #0: Start command__system_info
+[2021-10-07 10:57:39.120885]:  * MUVBOX_5051 #0: free heap: 58216 mac: 24:0a:c4:f4:50:51 firmware: 0 sensor task: None
+[2021-10-07 10:57:39.123888]:  * MUVBOX_5051 #0: command__system_info successful
+[2021-10-07 10:57:39.125886]:  * MUVBOX_5051 #0: Start scale procedure.
+[2021-10-07 10:57:39.127886]:  * MUVBOX_5051 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-10-07 10:57:39.130886]:  * MUVBOX_5051 #0: Setup done for MuvBox version FM10V000.980
+[2021-10-07 10:57:39.132887]:  * MUVBOX_5051 #0: End do_connect
+[2021-10-07 10:58:01.159526]:  * MUVBOX_5051 #0: Start start_reading
+[2021-10-07 10:58:01.162528]:  * MUVBOX_5051 #0: Start command__start_sensor
+[2021-10-07 10:58:01.164525]:  * MUVBOX_5051 #0: start_sensor command successful
+[2021-10-07 10:58:01.166533]:  * MUVBOX_5051 #0: Start scale procedure.
+[2021-10-07 10:58:01.168529]:  * MUVBOX_5051 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-10-07 10:58:02.166607]:  * MUVBOX_5051 #0:  - rtc0: 643.543765
+[2021-10-07 10:58:19.259312]:  * MUVBOX_5051 #0:  - rtc0: 661.194269
+[2021-10-07 10:58:31.143228]:  * MUVBOX_5051 #0: Start stop_reading
+[2021-10-07 10:58:31.146209]:  * MUVBOX_5051 #0: Start command__stop_transmission
+[2021-10-07 10:58:31.148210]:  * MUVBOX_5051 #0: Stop_transmission command successful
+[2021-10-07 10:58:31.151211]:  * MUVBOX_5051 #0: End stop_reading
+[2021-10-07 11:00:38.267291]:  * MUVBOX_5051 #0: Start start_reading
+[2021-10-07 11:00:38.270294]:  * MUVBOX_5051 #0: Start command__start_sensor
+[2021-10-07 11:00:38.273294]:  * MUVBOX_5051 #0: start_sensor command successful
+[2021-10-07 11:00:38.275294]:  * MUVBOX_5051 #0: Start scale procedure.
+[2021-10-07 11:00:38.277294]:  * MUVBOX_5051 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-10-07 11:00:38.280297]:  * MUVBOX_5051 #0:  - rtc0: 799.988153
+[2021-10-07 11:01:24.218747]:  * MUVBOX_5051 #0: Start stop_reading
+[2021-10-07 11:01:24.221734]:  * MUVBOX_5051 #0: Start command__stop_transmission
+[2021-10-07 11:01:24.224740]:  * MUVBOX_5051 #0: Stop_transmission command successful
+[2021-10-07 11:01:24.227734]:  * MUVBOX_5051 #0: End stop_reading
+[2021-10-07 11:02:40.378407]:  * MUVBOX_5051 #0: Start start_reading
+[2021-10-07 11:02:40.382411]:  * MUVBOX_5051 #0: Start command__start_sensor
+[2021-10-07 11:02:40.384410]:  * MUVBOX_5051 #0: start_sensor command successful
+[2021-10-07 11:02:40.387408]:  * MUVBOX_5051 #0: Start scale procedure.
+[2021-10-07 11:02:40.390410]:  * MUVBOX_5051 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-10-07 11:02:40.393412]:  * MUVBOX_5051 #0:  - rtc0: 922.4555369999999
+[2021-10-07 11:02:50.300161]:  * MUVBOX_5051 #0: Start stop_reading
+[2021-10-07 11:02:50.303147]:  * MUVBOX_5051 #0: Start command__stop_transmission
+[2021-10-07 11:02:50.306150]:  * MUVBOX_5051 #0: Stop_transmission command successful
+[2021-10-07 11:02:50.309150]:  * MUVBOX_5051 #0: End stop_reading
+[2021-10-07 11:08:00.772858]:  * MUVBOX_5051 #0: Connection closed 192.168.159.134

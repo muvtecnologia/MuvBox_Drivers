@@ -1,0 +1,64 @@
+Log started at 2022-09-21 13:40:18.167776
+
+
+[2022-09-21 13:41:04.294208]:  * MUVBOX_ec45 #0: Start _do_connect
+[2022-09-21 13:41:04.297210]:  * MUVBOX_ec45 #0:  IP = 192.168.137.96
+[2022-09-21 13:41:04.299210]:  * MUVBOX_ec45 #0: SUCCESSFULL CONNECTED TO 192.168.137.96
+[2022-09-21 13:41:04.300210]:  * MUVBOX_ec45 #0: Start command__system_info
+[2022-09-21 13:41:04.301211]:  * MUVBOX_ec45 #0: free heap: 57556 mac: 4c:75:25:5c:ec:45 firmware: 0 sensor task: None
+[2022-09-21 13:41:04.303210]:  * MUVBOX_ec45 #0: command__system_info successful
+[2022-09-21 13:41:04.304210]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-09-21 13:41:04.305211]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-09-21 13:41:04.306211]:  * MUVBOX_ec45 #0: Setup done for MuvBox version FM10V000.980
+[2022-09-21 13:41:04.307210]:  * MUVBOX_ec45 #0: End do_connect
+[2022-09-21 13:41:06.307853]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-09-21 13:41:06.309855]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-09-21 13:41:06.310857]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-09-21 13:41:06.311857]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-09-21 13:41:06.313856]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-09-21 13:41:07.318200]:  * MUVBOX_ec45 #0:  - rtc0: 27.156018999999997
+[2022-09-21 13:41:33.498553]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-09-21 13:41:33.499555]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-09-21 13:41:33.500555]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-09-21 13:41:33.501556]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-09-21 13:41:42.557630]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-09-21 13:41:42.558631]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-09-21 13:41:42.559630]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-09-21 13:41:42.561632]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-09-21 13:41:42.565634]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-09-21 13:41:42.566636]:  * MUVBOX_ec45 #0:  - rtc0: 62.960615999999995
+[2022-09-21 13:42:17.709050]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-09-21 13:42:17.710051]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-09-21 13:42:17.712051]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-09-21 13:42:17.713052]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-09-21 13:42:43.807681]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-09-21 13:42:43.808682]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-09-21 13:42:43.809682]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-09-21 13:42:43.810681]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-09-21 13:42:43.811681]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-09-21 13:42:43.812681]:  * MUVBOX_ec45 #0:  - rtc0: 124.39927999999999
+[2022-09-21 13:43:12.993552]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-09-21 13:43:12.995558]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-09-21 13:43:12.996557]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-09-21 13:43:12.996557]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-09-21 13:43:23.066709]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-09-21 13:43:23.067710]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-09-21 13:43:23.068711]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-09-21 13:43:23.069710]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-09-21 13:43:23.070710]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-09-21 13:43:23.071711]:  * MUVBOX_ec45 #0:  - rtc0: 163.316382
+[2022-09-21 13:43:55.237679]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-09-21 13:43:55.238684]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-09-21 13:43:55.239682]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-09-21 13:43:55.240690]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-09-21 13:44:26.409902]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-09-21 13:44:26.410903]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-09-21 13:44:26.411903]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-09-21 13:44:26.412903]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-09-21 13:44:26.413903]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-09-21 13:44:26.413903]:  * MUVBOX_ec45 #0:  - rtc0: 195.592494
+[2022-09-21 13:44:55.555549]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-09-21 13:44:55.556551]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-09-21 13:44:55.557551]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-09-21 13:44:55.558549]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-09-21 13:47:09.469213]:  * MUVBOX_ec45 #0: Connection closed 192.168.137.96

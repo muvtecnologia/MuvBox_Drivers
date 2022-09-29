@@ -1,0 +1,72 @@
+Log started at 2021-11-29 14:02:19.775424
+
+
+[2021-11-29 14:08:46.211889]:  * MUVBOX_502D #0: Start _do_connect
+[2021-11-29 14:08:46.213903]:  * MUVBOX_502D #0: Could not find hostname MUVBOX_502D
+[2021-11-29 14:08:46.215904]:  * MUVBOX_502D #0: Could not find hostname MUVBOX_502D.local
+[2021-11-29 14:08:58.058194]:  * MUVBOX_502D #0: Start _do_connect
+[2021-11-29 14:08:58.060194]:  * MUVBOX_502D #0: Could not find hostname MUVBOX_502D
+[2021-11-29 14:08:58.061192]:  * MUVBOX_502D #0: Could not find hostname MUVBOX_502D.local
+[2021-11-29 14:09:15.345834]:  * MUVBOX_502d #0: Start _do_connect
+[2021-11-29 14:09:15.346833]:  * MUVBOX_502d #0: Could not find hostname MUVBOX_502d
+[2021-11-29 14:09:15.347832]:  * MUVBOX_502d #0: Could not find hostname MUVBOX_502d.local
+[2021-11-29 14:10:31.113540]:  * MUVBOX_502d #0: Start _do_connect
+[2021-11-29 14:10:31.115542]:  * MUVBOX_502d #0:  IP = 192.168.72.98
+[2021-11-29 14:10:31.116543]:  * MUVBOX_502d #0: SUCCESSFULL CONNECTED TO 192.168.72.98
+[2021-11-29 14:10:31.117542]:  * MUVBOX_502d #0: Start command__system_info
+[2021-11-29 14:10:31.118543]:  * MUVBOX_502d #0: free heap: 58852 mac: 24:0a:c4:f4:50:2d firmware: 0 sensor task: None
+[2021-11-29 14:10:31.119542]:  * MUVBOX_502d #0: command__system_info successful
+[2021-11-29 14:10:31.120543]:  * MUVBOX_502d #0: Start scale procedure.
+[2021-11-29 14:10:31.121542]:  * MUVBOX_502d #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-11-29 14:10:31.122543]:  * MUVBOX_502d #0: Setup done for MuvBox version FM10V000.980
+[2021-11-29 14:10:31.123542]:  * MUVBOX_502d #0: End do_connect
+[2021-11-29 14:10:35.117241]:  * MUVBOX_502d #0: Start start_reading
+[2021-11-29 14:10:35.118240]:  * MUVBOX_502d #0: Start command__start_sensor
+[2021-11-29 14:10:35.119241]:  * MUVBOX_502d #0: start_sensor command successful
+[2021-11-29 14:10:35.120242]:  * MUVBOX_502d #0: Start scale procedure.
+[2021-11-29 14:10:35.122242]:  * MUVBOX_502d #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-11-29 14:10:35.123244]:  * MUVBOX_502d #0:  - rtc0: 313.765971
+[2021-11-29 14:11:50.257763]:  * MUVBOX_502d #0: Start stop_reading
+[2021-11-29 14:11:50.259791]:  * MUVBOX_502d #0: Start command__stop_transmission
+[2021-11-29 14:11:50.261792]:  * MUVBOX_502d #0: Stop_transmission command successful
+[2021-11-29 14:11:50.262782]:  * MUVBOX_502d #0: End stop_reading
+[2021-11-29 14:12:18.146375]:  * MUVBOX_502d #0: Start _do_connect
+[2021-11-29 14:12:18.148379]:  * MUVBOX_502d #0:  IP = 192.168.72.98
+[2021-11-29 14:12:18.150384]:  * MUVBOX_502d #0: SUCCESSFULL CONNECTED TO 192.168.72.98
+[2021-11-29 14:12:18.152380]:  * MUVBOX_502d #0: Start command__system_info
+[2021-11-29 14:12:18.154379]:  * MUVBOX_502d #0: free heap: 55984 mac: 24:0a:c4:f4:50:2d firmware: 0 sensor task: None
+[2021-11-29 14:12:18.156379]:  * MUVBOX_502d #0: command__system_info successful
+[2021-11-29 14:12:18.157379]:  * MUVBOX_502d #0: Start scale procedure.
+[2021-11-29 14:12:18.158379]:  * MUVBOX_502d #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-11-29 14:12:18.159379]:  * MUVBOX_502d #0: Setup done for MuvBox version FM10V000.980
+[2021-11-29 14:12:18.160379]:  * MUVBOX_502d #0: End do_connect
+[2021-11-29 14:12:23.162136]:  * MUVBOX_502d #0: Start start_reading
+[2021-11-29 14:12:23.164135]:  * MUVBOX_502d #0: Start command__start_sensor
+[2021-11-29 14:12:23.165137]:  * MUVBOX_502d #0: start_sensor command successful
+[2021-11-29 14:12:23.166136]:  * MUVBOX_502d #0: Start scale procedure.
+[2021-11-29 14:12:23.168137]:  * MUVBOX_502d #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-11-29 14:12:25.167845]:  * MUVBOX_502d #0:  - rtc0: 423.40786199999997
+[2021-11-29 14:13:43.344314]:  * MUVBOX_502d #0: Start stop_reading
+[2021-11-29 14:13:43.345317]:  * MUVBOX_502d #0: Start command__stop_transmission
+[2021-11-29 14:13:43.346319]:  * MUVBOX_502d #0: Stop_transmission command successful
+[2021-11-29 14:13:43.347319]:  * MUVBOX_502d #0: End stop_reading
+[2021-11-29 14:14:36.501894]:  * MUVBOX_502d #0: Start start_reading
+[2021-11-29 14:14:36.503895]:  * MUVBOX_502d #0: Start command__start_sensor
+[2021-11-29 14:14:36.503895]:  * MUVBOX_502d #0: start_sensor command successful
+[2021-11-29 14:14:36.504896]:  * MUVBOX_502d #0: Start scale procedure.
+[2021-11-29 14:14:36.505896]:  * MUVBOX_502d #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2021-11-29 14:14:37.458553]:  * MUVBOX_502d #0:  - rtc0: 555.630405
+[2021-11-29 14:15:03.482137]:  * MUVBOX_502d #0: Start stop_reading
+[2021-11-29 14:15:03.485144]:  * MUVBOX_502d #0: Start command__stop_transmission
+[2021-11-29 14:15:03.486140]:  * MUVBOX_502d #0: Stop_transmission command successful
+[2021-11-29 14:15:03.487141]:  * MUVBOX_502d #0: End stop_reading
+[2021-11-29 14:16:28.637701]:  * MUVBOX_502d #0: Start start_reading
+[2021-11-29 14:16:28.640708]:  * MUVBOX_502d #0: Start command__start_sensor
+[2021-11-29 14:16:28.642704]:  * MUVBOX_502d #0: start_sensor command successful
+[2021-11-29 14:16:28.648705]:  * MUVBOX_502d #0: Start scale procedure.
+[2021-11-29 14:16:28.651706]:  * MUVBOX_502d #0: Scale procedure done. Using DEGSCALE=250 GSCALE=16
+[2021-11-29 14:16:28.653705]:  * MUVBOX_502d #0:  - rtc0: 667.3321149999999
+[2021-11-29 14:17:16.703478]:  * MUVBOX_502d #0: Start stop_reading
+[2021-11-29 14:17:16.705479]:  * MUVBOX_502d #0: Start command__stop_transmission
+[2021-11-29 14:17:16.706477]:  * MUVBOX_502d #0: Stop_transmission command successful
+[2021-11-29 14:17:16.707480]:  * MUVBOX_502d #0: End stop_reading

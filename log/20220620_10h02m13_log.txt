@@ -1,0 +1,24 @@
+Log started at 2022-06-20 10:02:13.378661
+
+
+[2022-06-20 10:02:44.252088]:  * MUVBOX_c9bd #0: Start _do_connect
+[2022-06-20 10:02:44.255018]:  * MUVBOX_c9bd #0:  IP = 192.168.137.104
+[2022-06-20 10:02:44.257017]:  * MUVBOX_c9bd #0: SUCCESSFULL CONNECTED TO 192.168.137.104
+[2022-06-20 10:02:44.258018]:  * MUVBOX_c9bd #0: Start command__system_info
+[2022-06-20 10:02:44.260016]:  * MUVBOX_c9bd #0: free heap: 55068 mac: 9c:9c:1f:e4:c9:bd firmware: 0 sensor task: None
+[2022-06-20 10:02:44.261017]:  * MUVBOX_c9bd #0: command__system_info successful
+[2022-06-20 10:02:44.262016]:  * MUVBOX_c9bd #0: Start scale procedure.
+[2022-06-20 10:02:44.263019]:  * MUVBOX_c9bd #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-06-20 10:02:44.264017]:  * MUVBOX_c9bd #0: Setup done for MuvBox version FM10V000.980
+[2022-06-20 10:02:44.265016]:  * MUVBOX_c9bd #0: End do_connect
+[2022-06-20 10:02:50.297069]:  * MUVBOX_c9bd #0: Start start_reading
+[2022-06-20 10:02:50.298071]:  * MUVBOX_c9bd #0: Start command__start_sensor
+[2022-06-20 10:02:50.299070]:  * MUVBOX_c9bd #0: start_sensor command successful
+[2022-06-20 10:02:50.300070]:  * MUVBOX_c9bd #0: Start scale procedure.
+[2022-06-20 10:02:50.301070]:  * MUVBOX_c9bd #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-06-20 10:02:50.302072]:  * MUVBOX_c9bd #0:  - rtc0: 442134.54513
+[2022-06-20 10:03:08.395091]:  * MUVBOX_c9bd #0: Start stop_reading
+[2022-06-20 10:03:08.397093]:  * MUVBOX_c9bd #0: Start command__stop_transmission
+[2022-06-20 10:03:08.399093]:  * MUVBOX_c9bd #0: Stop_transmission command successful
+[2022-06-20 10:03:08.400093]:  * MUVBOX_c9bd #0: End stop_reading
+[2022-06-20 10:08:50.634128]:  * MUVBOX_c9bd #0: Connection closed 192.168.137.104

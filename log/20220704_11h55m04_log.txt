@@ -1,0 +1,54 @@
+Log started at 2022-07-04 11:55:04.996892
+
+
+[2022-07-04 11:55:25.140501]:  * MUVBOX_ec45 #0: Start _do_connect
+[2022-07-04 11:55:25.140501]:  * MUVBOX_ec45 #0:  IP = 192.168.137.76
+[2022-07-04 11:55:25.140501]:  * MUVBOX_ec45 #0: SUCCESSFULL CONNECTED TO 192.168.137.76
+[2022-07-04 11:55:25.140501]:  * MUVBOX_ec45 #0: Start command__system_info
+[2022-07-04 11:55:25.140501]:  * MUVBOX_ec45 #0: free heap: 58680 mac: 4c:75:25:5c:ec:45 firmware: 0 sensor task: None
+[2022-07-04 11:55:25.140501]:  * MUVBOX_ec45 #0: command__system_info successful
+[2022-07-04 11:55:25.140501]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-07-04 11:55:25.156134]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-07-04 11:55:25.156134]:  * MUVBOX_ec45 #0: Setup done for MuvBox version FM10V000.980
+[2022-07-04 11:55:25.156134]:  * MUVBOX_ec45 #0: End do_connect
+[2022-07-04 11:55:29.178478]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-07-04 11:55:29.178478]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-07-04 11:55:29.178478]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-07-04 11:55:29.178478]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-07-04 11:55:29.178478]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-07-04 11:55:29.178478]:  * MUVBOX_ec45 #0:  - rtc0: 217.12402999999998
+[2022-07-04 11:57:50.462696]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-07-04 11:57:50.462696]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-07-04 11:57:50.462696]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-07-04 11:57:50.462696]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-07-04 11:57:52.472075]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-07-04 11:57:52.472075]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-07-04 11:57:52.472075]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-07-04 11:57:52.472075]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-07-04 11:57:52.472075]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-07-04 11:57:52.472075]:  * MUVBOX_ec45 #0:  - rtc0: 360.071687
+[2022-07-04 11:57:57.474355]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-07-04 11:57:57.474355]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-07-04 11:57:57.474355]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-07-04 11:57:57.474355]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-07-04 11:57:57.474355]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-07-04 11:57:57.474355]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-07-04 11:57:57.474355]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-07-04 11:57:57.474355]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-07-04 11:57:57.474355]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-07-04 11:57:58.465618]:  * MUVBOX_ec45 #0:  - rtc0: 365.708147
+[2022-07-04 11:58:00.463341]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-07-04 11:58:00.463341]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-07-04 11:58:00.463341]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-07-04 11:58:00.463341]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-07-04 11:58:05.485401]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-07-04 11:58:05.485401]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-07-04 11:58:05.485401]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-07-04 11:58:05.485401]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-07-04 11:58:05.485401]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-07-04 11:58:05.485401]:  * MUVBOX_ec45 #0:  - rtc0: 373.30188499999997
+[2022-07-04 11:58:18.492673]:  * MUVBOX_ec45 #0: Start stop_reading
+[2022-07-04 11:58:18.492673]:  * MUVBOX_ec45 #0: Start command__stop_transmission
+[2022-07-04 11:58:18.492673]:  * MUVBOX_ec45 #0: Stop_transmission command successful
+[2022-07-04 11:58:18.492673]:  * MUVBOX_ec45 #0: End stop_reading
+[2022-07-04 13:57:05.379067]:  * MUVBOX_ec45 #0: Connection closed 192.168.137.76

@@ -1,0 +1,20 @@
+Log started at 2022-06-22 10:54:25.220548
+
+
+[2022-06-22 10:54:41.116410]:  * MUVBOX_ec45 #0: Start _do_connect
+[2022-06-22 10:54:41.120411]:  * MUVBOX_ec45 #0:  IP = 192.168.137.219
+[2022-06-22 10:54:41.120411]:  * MUVBOX_ec45 #0: SUCCESSFULL CONNECTED TO 192.168.137.219
+[2022-06-22 10:54:41.124411]:  * MUVBOX_ec45 #0: Start command__system_info
+[2022-06-22 10:54:41.140415]:  * MUVBOX_ec45 #0: free heap: 58584 mac: 4c:75:25:5c:ec:45 firmware: 0 sensor task: None
+[2022-06-22 10:54:41.140415]:  * MUVBOX_ec45 #0: command__system_info successful
+[2022-06-22 10:54:41.144416]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-06-22 10:54:41.144416]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-06-22 10:54:41.148417]:  * MUVBOX_ec45 #0: Setup done for MuvBox version FM10V000.980
+[2022-06-22 10:54:41.148417]:  * MUVBOX_ec45 #0: End do_connect
+[2022-06-22 10:54:50.144776]:  * MUVBOX_ec45 #0: Start start_reading
+[2022-06-22 10:54:50.144776]:  * MUVBOX_ec45 #0: Start command__start_sensor
+[2022-06-22 10:54:50.148788]:  * MUVBOX_ec45 #0: start_sensor command successful
+[2022-06-22 10:54:50.148788]:  * MUVBOX_ec45 #0: Start scale procedure.
+[2022-06-22 10:54:50.152790]:  * MUVBOX_ec45 #0: Scale procedure done. Using DEGSCALE=250 GSCALE=4
+[2022-06-22 10:54:50.152790]:  * MUVBOX_ec45 #0:  - rtc0: 91.096592
+[2022-06-22 10:56:50.840205]:  * MUVBOX_ec45 #0: [MuvBox Error] Timeout: cannot connect to 192.168.137.219
